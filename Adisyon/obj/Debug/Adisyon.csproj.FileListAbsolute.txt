@@ -1,0 +1,17 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\bin\Debug\Adisyon.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\bin\Debug\Adisyon.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\bin\Debug\Adisyon.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\obj\Debug\Adisyon.Form1.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\obj\Debug\Adisyon.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\obj\Debug\Adisyon.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\obj\Debug\Adisyon.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\Adisyon\Adisyon\obj\Debug\Adisyon.pdb
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\bin\Debug\Adisyon.exe.config
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\obj\Debug\Adisyon.exe
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\obj\Debug\Adisyon.pdb
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\bin\Debug\Adisyon.exe
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\bin\Debug\Adisyon.pdb
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\obj\Debug\Adisyon.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\obj\Debug\Adisyon.Form1.resources
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\obj\Debug\Adisyon.Properties.Resources.resources
+C:\Users\AHMET\Desktop\Adisyon\Adisyon\obj\Debug\Adisyon.csproj.GenerateResource.Cache
